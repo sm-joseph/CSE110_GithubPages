@@ -9,7 +9,7 @@ It seems simple, but being able to anticipate things in all areas of life and tr
 
 ## My Favorites!
 
-My Favorite food is ![sushi](/california-roll.jpg)!
+My Favorite food is sushi! ![](/california-roll.jpg)
 
 My two favorite colors are (in no particular order):
 - British Racing Green `#004225`
