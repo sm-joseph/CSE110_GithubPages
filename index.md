@@ -1,5 +1,5 @@
 # Hi! I'm Sanjit!
-## Welcome to my **CSE 110** _Lab 1_ Markdown Assignment
+## Welcome to my **CSE 110 _Software Engineering_** Lab 1 Markdown Assignment
 
 ## About Me!
 I think the best advice I've ever heard comes from the Scout Motto:
@@ -20,4 +20,7 @@ My top 3 favorite songs are probably:
 2. [Live and Let Die](https://www.youtube.com/watch?v=NR0UmZcf89E)
 3. [Jessica](https://www.youtube.com/watch?v=vTOozRAJ8dU)
 
-
+Some of my goals for the next 2 years are as follows:
+- [x] Take CSE 110
+- [ ] Graduate UCSD
+- [ ] Become a SE!
