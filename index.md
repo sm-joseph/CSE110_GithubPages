@@ -1,5 +1,5 @@
 # Hi! I'm Sanjit!
-## Welcome to my **CSE 110 _Software Engineering_** Lab 1 Markdown Assignment
+## Welcome to my **CSE 110 _(Software Engineering)_** Lab 1 Markdown Assignment
 
 ## About Me!
 I think the best advice I've ever heard comes from the Scout Motto:
