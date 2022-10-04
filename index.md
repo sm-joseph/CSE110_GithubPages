@@ -4,6 +4,7 @@
 ## About Me!
 I think the best advice I've ever heard comes from the Scout Motto:
 > "Be Prepared"
+
 It seems simple, but being able to anticipate things in all areas of life and trying to prepare for them has really saved me from a lot of headaches. 
 
 ## My Favorites!
